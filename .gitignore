@@ -1,0 +1,21 @@
+# Maven
+*/target/**
+target/
+
+# MacOS
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Other files
+.factorypath
+*.plantuml
+*rebel.xml
